@@ -28,8 +28,9 @@ This project performs exploratory data analysis on the Titanic dataset to uncove
 - Survival rates across various demographics.
 
 #### 📈 Visualization:
+![Image](https://github.com/user-attachments/assets/e9e7cb3f-2b4a-4a8d-a4ab-1b5478152d8d)
 
-- Bar plots, pie charts, and heatmaps using matplotlib and seaborn.
+- Bar plots, countplot, and heatmap using matplotlib and seaborn.
 
 #### 📂 Files Included:
 
